@@ -92,8 +92,11 @@ Podés acceder a la hoja de cálculo (plantilla) base en el siguiente enlace:
 
 👉 [Google Sheets – Apps Script](https://docs.google.com/spreadsheets/d/1XnFH5C-qtKUmu9xqSfuJJI0sA-DxujZReBtBxUrcP0M/edit?usp=sharing)
 
-## 📎 Archivo final
+
+## 📎 Archivo final realizado
 
 Podés acceder a la hoja de cálculo final en el siguiente enlace:
-👉 [Google Sheets – Apps Script FINAL](https://docs.google.com/spreadsheets/d/11XYzX_PuVSKtkahoUlnvoWp5FcxSMjaBvnUV2jOAk2I/edit?gid=2032465818#gid=2032465818)
+
+👉 [Google Sheets – Apps Script](https://docs.google.com/spreadsheets/d/11XYzX_PuVSKtkahoUlnvoWp5FcxSMjaBvnUV2jOAk2I/edit?gid=2032465818#gid=2032465818)
+
 ---
